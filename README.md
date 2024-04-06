@@ -304,6 +304,7 @@ Next star goal = ⭐️310⭐️
 - Signals
 - LivePerson
 - Whismer
+- [Tune AI](https://chat.tune.app/)
 
 ## E-Mail Assistant
 - SuperGmail by Merlin AI
